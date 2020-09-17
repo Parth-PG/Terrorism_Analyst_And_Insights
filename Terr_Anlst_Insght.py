@@ -1,10 +1,6 @@
-#                -*- coding: utf-8 -*-
 """
-
 @author: Parth Gupta
-
 """
-
 import pandas as pd
 import webbrowser
 
